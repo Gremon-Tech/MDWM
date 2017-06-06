@@ -20,7 +20,7 @@
             <property name="active">0</property>
             <items>
               <item>GTK+</item>
-              <item>Metacity</item>
+              <item>MDWM</item>
             </items>
             <signal name="changed" handler="type_combo_box_changed_cb" swapped="no"/>
           </object>
